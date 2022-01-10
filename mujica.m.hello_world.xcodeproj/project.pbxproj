@@ -40,7 +40,7 @@
 		664C8002278CE67E00131714 = {
 			isa = PBXGroup;
 			children = (
-				664C800D278CE67E00131714 /* hello world */,
+				664C800D278CE67E00131714 /* mujica.m.hello_world */,
 				664C800C278CE67E00131714 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -53,7 +53,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		664C800D278CE67E00131714 /* hello world */ = {
+		664C800D278CE67E00131714 /* mujica.m.hello_world */ = {
 			isa = PBXGroup;
 			children = (
 				664C800E278CE67E00131714 /* AppDelegate.swift */,
@@ -64,7 +64,7 @@
 				664C8019278CE68000131714 /* LaunchScreen.storyboard */,
 				664C801C278CE68000131714 /* Info.plist */,
 			);
-			path = "hello world";
+			path = mujica.m.hello_world;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
