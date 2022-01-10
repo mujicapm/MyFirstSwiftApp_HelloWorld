@@ -16,7 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		664C800B278CE67E00131714 /* hello world.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "hello world.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		664C800B278CE67E00131714 /* mujica.m.hello_world.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = mujica.m.hello_world.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		664C800E278CE67E00131714 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		664C8010278CE67E00131714 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		664C8012278CE67E00131714 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -48,7 +48,7 @@
 		664C800C278CE67E00131714 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				664C800B278CE67E00131714 /* hello world.app */,
+				664C800B278CE67E00131714 /* mujica.m.hello_world.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -70,9 +70,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		664C800A278CE67E00131714 /* hello world */ = {
+		664C800A278CE67E00131714 /* mujica.m.hello_world */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 664C801F278CE68000131714 /* Build configuration list for PBXNativeTarget "hello world" */;
+			buildConfigurationList = 664C801F278CE68000131714 /* Build configuration list for PBXNativeTarget "mujica.m.hello_world" */;
 			buildPhases = (
 				664C8007278CE67E00131714 /* Sources */,
 				664C8008278CE67E00131714 /* Frameworks */,
@@ -82,9 +82,9 @@
 			);
 			dependencies = (
 			);
-			name = "hello world";
+			name = mujica.m.hello_world;
 			productName = "hello world";
-			productReference = 664C800B278CE67E00131714 /* hello world.app */;
+			productReference = 664C800B278CE67E00131714 /* mujica.m.hello_world.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -102,7 +102,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 664C8006278CE67E00131714 /* Build configuration list for PBXProject "hello world" */;
+			buildConfigurationList = 664C8006278CE67E00131714 /* Build configuration list for PBXProject "mujica.m.hello_world" */;
 			compatibilityVersion = "Xcode 13.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -115,7 +115,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				664C800A278CE67E00131714 /* hello world */,
+				664C800A278CE67E00131714 /* mujica.m.hello_world */,
 			);
 		};
 /* End PBXProject section */
@@ -341,7 +341,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		664C8006278CE67E00131714 /* Build configuration list for PBXProject "hello world" */ = {
+		664C8006278CE67E00131714 /* Build configuration list for PBXProject "mujica.m.hello_world" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				664C801D278CE68000131714 /* Debug */,
@@ -350,7 +350,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		664C801F278CE68000131714 /* Build configuration list for PBXNativeTarget "hello world" */ = {
+		664C801F278CE68000131714 /* Build configuration list for PBXNativeTarget "mujica.m.hello_world" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				664C8020278CE68000131714 /* Debug */,
